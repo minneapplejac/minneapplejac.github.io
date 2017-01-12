@@ -5,5 +5,9 @@ h2 {
 
 h3 {
   color: gold; 
-  background-color: turquiose;
+  background-color: #FF0080;
+}
+
+img {
+  width: 400px;
 }
